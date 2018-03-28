@@ -1,5 +1,2 @@
-# don't sync .dll
-*.dll
-
 # don't sync .pyc
 *.pyc
