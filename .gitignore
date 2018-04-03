@@ -1,2 +1,5 @@
 # don't sync .pyc
 *.pyc
+
+# don't sync IDE files
+.idea
